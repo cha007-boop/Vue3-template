@@ -1,4 +1,12 @@
 h1 {
-    font-size: 50px;
-    color: blue;
-  }
+  font-size: 50px;
+  color: blue;
+}
+
+.crazy {
+  color: red;
+}
+
+.normal {
+  color: green;
+}
